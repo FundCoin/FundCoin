@@ -1,0 +1,9 @@
+Building FundCoin
+
+See doc/readme-qt.rst for instructions on building FundCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FundCoin.
+
+See doc/build-*.txt for instructions on building FundCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FundCoin.
